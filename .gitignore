@@ -1,0 +1,4 @@
+/node_modules
+/dist
+/chapters
+yarn-error.log
